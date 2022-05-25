@@ -1,5 +1,5 @@
 baseurl: https://new.sim1222.com
-languageCode: ja
+languageCode: ja-jp
 theme: stack
 paginate: 5
 title: sim1222.com
@@ -197,8 +197,6 @@ menu:
           url: https://twitter.com/_kokt
           params:
               icon: brand-twitter
-    
-
 
 related:
     includeNewer: true
