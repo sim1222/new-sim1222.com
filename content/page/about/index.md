@@ -1,13 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: 自分について
+date: '2022-05-25'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-05-26'
 menu:
     main: 
         weight: -90
@@ -15,20 +15,40 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+こけっち(sim1222)といいます
 
-Hugo makes use of a variety of open source projects including:
+ネットに住んでいます
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+# いろいろ
+## SNS
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Twitter [@_kokt](https://twitter.com/_kokt)
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Misskey [@sim1222@misskey.io](https://misskey.io/@sim1222)
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Misskey（自鯖） [@_kokt@simkey.net](https://simkey.net/@_kokt)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+ほにクラブ [@sim1222@honi.club](https://honi.club/@sim1222)
+
+すしすきー [@sim1222@sushi.ski](https://sushi.ski/@sim1222)
+
+Youtube https://www.youtube.com/channel/UCW1wsNm-g0BfIanV77fylkQ
+
+mastodon [@sim1222@mstdn.jp](https://mstdn.jp/@sim1222)
+
+discord `sim1222#3810`
+
+Github https://github.com/sim1222
+
+干し芋のリスト https://www.amazon.jp/hz/wishlist/ls/12TJNFBCJ63YT?ref_=wl_share
+
+
+## ゲーム
+
+osu! [sim1222](https://osu.ppy.sh/users/12164975)
+
+VRChat : [こけっち](https://vrchat.com/home/user/usr_8a5fbace-5920-4fbe-a4ad-7d5cad57f1c7)
+
+Steam sim1222 FC : `351582640`  
+
+原神 こけっち UID : `801434240`
