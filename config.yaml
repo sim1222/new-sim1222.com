@@ -1,13 +1,13 @@
 baseurl: https://new.sim1222.com
-languageCode: ja-jp
+languageCode: ja
 theme: stack
 paginate: 5
-title: sim1222.com
+title: こけっち
 
 languages:
     ja:
         languageName: にほんご
-        title: sim1222.com
+        title: こけっち
         weight: 1
 
 # Change it to your Disqus shortname before using
@@ -37,15 +37,15 @@ params:
 
     footer:
         since: 2020
-        customText: 
+        customText: こけっち / sim1222
 
     dateFormat:
         published: 2006 Jan 02
         lastUpdated: 2006 Jan 02 15:04 JST
 
     sidebar:
-        emoji: 🍥
-        subtitle: ねこです
+        emoji: 🐾
+        subtitle: こけっち / sim1222 です ねこです
         avatar:
             enabled: true
             local: true
