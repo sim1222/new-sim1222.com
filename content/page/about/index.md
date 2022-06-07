@@ -6,8 +6,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2022-05-26'
+lastmod: '2022-06-08'
 menu:
     main: 
         weight: -90
@@ -49,6 +48,6 @@ osu! [sim1222](https://osu.ppy.sh/users/12164975)
 
 VRChat : [こけっち](https://vrchat.com/home/user/usr_8a5fbace-5920-4fbe-a4ad-7d5cad57f1c7)
 
-Steam sim1222 FC : `351582640`  
+Steam sim1222 FC : `351582640`
 
 原神 こけっち UID : `801434240`
