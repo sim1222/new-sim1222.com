@@ -1,3 +1,4 @@
 [submodule "themes/stack"]
 	path = themes/stack
 	url = https://github.com/sim1222/hugo-theme-stack
+	branch = master
