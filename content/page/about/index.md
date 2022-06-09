@@ -18,8 +18,18 @@ menu:
 
 ネットに住んでいます
 
-# いろいろ
-## SNS
+# 連絡など
+
+Misskey [@sim1222@misskey.io](https://misskey.io/@sim1222)
+
+Twitter DM [@_kokt](https://twitter.com/_kokt)
+
+Keybase `sim1222`
+
+Discord `sim1222#3810`
+
+
+# SNS
 
 Twitter [@_kokt](https://twitter.com/_kokt)
 
@@ -33,16 +43,14 @@ Misskey（自鯖） [@_kokt@simkey.net](https://simkey.net/@_kokt)
 
 Youtube https://www.youtube.com/channel/UCW1wsNm-g0BfIanV77fylkQ
 
-mastodon [@sim1222@mstdn.jp](https://mstdn.jp/@sim1222)
+<!-- mastodon [@sim1222@mstdn.jp](https://mstdn.jp/@sim1222) -->
 
 discord `sim1222#3810`
 
 Github https://github.com/sim1222
 
-干し芋のリスト https://www.amazon.jp/hz/wishlist/ls/12TJNFBCJ63YT?ref_=wl_share
 
-
-## ゲーム
+# ゲーム
 
 osu! [sim1222](https://osu.ppy.sh/users/12164975)
 
@@ -51,3 +59,14 @@ VRChat : [こけっち](https://vrchat.com/home/user/usr_8a5fbace-5920-4fbe-a4ad
 Steam sim1222 FC : `351582640`
 
 原神 こけっち UID : `801434240`
+
+# 支援
+
+干し芋のリスト https://www.amazon.jp/hz/wishlist/ls/12TJNFBCJ63YT?ref_=wl_share
+
+Github Sponsors https://github.com/sponsors/sim1222
+
+<!-- Patreon https://www.patreon.com/sim1222 -->
+
+
+
